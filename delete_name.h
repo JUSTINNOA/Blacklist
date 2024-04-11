@@ -1,0 +1,1 @@
+void delete_name(FILE *file, char name);
