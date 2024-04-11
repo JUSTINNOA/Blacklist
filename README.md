@@ -1,4 +1,4 @@
-#BLACK LIST
+#Blacklist
 
 #Description du projet:
       Le projet a pour but de d'enregistrer la liste des bavards dans un fichier texte, de rechercher
