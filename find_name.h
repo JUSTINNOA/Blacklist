@@ -1,0 +1,1 @@
+int find_name(FILE *file, char name);
