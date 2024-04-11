@@ -1,5 +1,6 @@
-# Description du project:
+#BLACK LIST
 
+#Description du projet:
       Le projet a pour but de d'enregistrer la liste des bavards dans un fichier texte, de rechercher
 un nom dans ce fichier pour verifier sa présence, et de supprimer un nom du fichier si nécéssaire.
 Le projet est decoupé en trois fonctionnalités principales: l'ajout, la recherche et la suppresion 
